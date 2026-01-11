@@ -1,5 +1,7 @@
 Student Records Management System (SRMS)
 
+Repository: https://github.com/Evansdezerbi/-Evans-student-system-.git
+
 Project Description
 A modern web application for managing student records with a React frontend and Node.js backend using MongoDB. This system provides an efficient way to handle student data with features like CRUD operations, search, analytics, and secure authentication.
 
