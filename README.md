@@ -1,6 +1,8 @@
 Student Records Management System (SRMS)
 
-Repository: https://github.com/Evansdezerbi/-Evans-student-system-.git
+NAME: EVANS KIRWA KIPKEMOI
+ADM NO: 10017-30
+INSTITUTION: KENYA INSTITUTE OF SOFTWARE ENGINEERING AND PROFESSIONAL STUDIES(KISE)
 
 Project Description
 A modern web application for managing student records with a React frontend and Node.js backend using MongoDB. This system provides an efficient way to handle student data with features like CRUD operations, search, analytics, and secure authentication.
@@ -144,6 +146,3 @@ Contributing
 4. Push to the branch
 5. Open a Pull Request
 
-License
-
-This project is licensed under the ISC License.
